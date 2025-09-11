@@ -1,0 +1,19 @@
+.signup-page {
+  min-height: 100vh;
+  background: url('https://t4.ftcdn.net/jpg/11/25/96/23/360_F_1125962371_D8BU9ZpTBMTihboBGctD9Y6ChtWUNXy1.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.custom-signin-btn {
+ 
+ background: linear-gradient(135deg, #004D40, #FFEB3B);
+  color: white;
+  border: none;
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+  transition: background 0.3s ease;
+}
+
+.custom-signin-btn:hover {
+  background: linear-gradient(135deg, #388E3C, #FFC107);
+}
